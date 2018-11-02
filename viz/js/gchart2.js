@@ -24,7 +24,7 @@ setTimeout(function(){
 
 //Create a Query
     //var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1cf6Mv6vEtlBDLN5u0tD_PfeOIbYaD45qFSC00qxm2TA/edit?usp=sharing');
-var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1h0S-PTAfO2VVNSI4_5NTrUT-mT_t0Oy4bjdb4CEgb_E/edit?usp=sharing');
+var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1h0S-PTAfO2VVNSI4_5NTrUT-mT_t0Oy4bjdb4CEgb_E/edit?usp=sharing'); 
 //
 
 // Populate the query with some SQL
